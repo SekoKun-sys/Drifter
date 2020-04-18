@@ -1,0 +1,25 @@
+{
+  "name": "Drifterbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.6.2",
+    "mongoose": "",
+    "fs": "",
+    "ms": ""
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
